@@ -1,0 +1,19 @@
+{
+  "name": "bloom_mvp",
+  "version": "1.0.0",
+  "description": "First demo version for Westminster OQ 2016",
+  "main": "index.js",
+  "scripts": {
+    "test": "build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zfalen/bloom_mvp.git"
+  },
+  "author": "Zach Falen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zfalen/bloom_mvp/issues"
+  },
+  "homepage": "https://github.com/zfalen/bloom_mvp#readme"
+}
